@@ -1,0 +1,66 @@
+body {
+margin: 0;
+padding: 0;
+height: 100%;
+width: 100%;
+overflow-x: hidden;
+background-color: #FFF7E8;
+
+}
+.container {
+width: 1440px;
+height: 6545px;
+position: relative;
+margin: auto;
+overflow: hidden;
+
+}
+
+
+.no1 { 
+    display: flex;
+    justify-content: space-between;
+width: 80%;
+margin-top: 37px;
+margin-left: 214px;
+margin-right: auto;
+}
+
+.no2 {
+margin-top: -24px;
+margin-left: 81px;
+}
+
+.no3 {
+margin-top: 160px;
+margin-left: 252px;
+}
+
+.no4 {
+margin-top: 268px;
+
+}
+
+.no5 {
+margin-top: -357px;
+margin-left: 953px;
+
+}
+
+
+
+.text1 {
+font-family: "GillSans-Regular";
+font-size: 20px;
+}
+
+.text2 {
+font-family: "GillSans-SemiBold";
+font-size: 44px;
+margin-left: 482px;
+margin-top: 34px;
+color: #1C1C1C;
+}
+
+
+

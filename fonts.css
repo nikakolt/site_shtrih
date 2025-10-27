@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "GillSans-Regular";
+    src: url("../site_shtrih/fonts/GillSansC.ttf") format(truetype);
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "GillSans-SemiBold";
+    src: url("../site_shtrih/fonts/Gill\ Sans\ SemiBold.ttf") format(truetype);
+    font-weight: 800;
+    font-style: normal;
+}
